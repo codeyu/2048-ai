@@ -1,6 +1,6 @@
 package grid
 
-import "github.com/xwjdsh/2048-ai/utils"
+import "github.com/codeyu/2048-ai/utils"
 
 type Direction int
 

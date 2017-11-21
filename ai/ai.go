@@ -1,7 +1,7 @@
 package ai
 
 import (
-	"github.com/xwjdsh/2048-ai/grid"
+	"github.com/codeyu/2048-ai/grid"
 )
 
 type AI struct {

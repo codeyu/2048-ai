@@ -9,9 +9,9 @@ import (
 	"net/http"
 	"sync/atomic"
 
+	"github.com/codeyu/2048-ai/ai"
+	"github.com/codeyu/2048-ai/grid"
 	"github.com/gorilla/websocket"
-	"github.com/xwjdsh/2048-ai/ai"
-	"github.com/xwjdsh/2048-ai/grid"
 )
 
 var upgrader = websocket.Upgrader{

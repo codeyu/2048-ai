@@ -1,22 +1,22 @@
 # 2048-AI
 
-[![Build Status](https://travis-ci.org/xwjdsh/2048-ai.svg?branch=master)](https://travis-ci.org/xwjdsh/2048-ai)
-[![Go Report Card](https://goreportcard.com/badge/github.com/xwjdsh/2048-ai)](https://goreportcard.com/report/github.com/xwjdsh/2048-ai)
+[![Build Status](https://travis-ci.org/codeyu/2048-ai.svg?branch=master)](https://travis-ci.org/codeyu/2048-ai)
+[![Go Report Card](https://goreportcard.com/badge/github.com/codeyu/2048-ai)](https://goreportcard.com/report/github.com/codeyu/2048-ai)
 [![](https://images.microbadger.com/badges/image/wendellsun/2048-ai.svg)](https://microbadger.com/images/wendellsun/2048-ai "Get your own image badge on microbadger.com")
-[![DUB](https://img.shields.io/dub/l/vibe-d.svg)](https://github.com/xwjdsh/2048-ai/blob/master/LICENSE)
+[![DUB](https://img.shields.io/dub/l/vibe-d.svg)](https://github.com/codeyu/2048-ai/blob/master/LICENSE)
 
 AI for the 2048 game, implements by expectimax search, powered by Go.
 
 The web front-ends of 2048 game was forked from [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048), respect and gratitude!
 
 ## Screenshot
-![](https://raw.githubusercontent.com/xwjdsh/2048-ai/master/screenshot/2048-ai.jpg)
+![](https://raw.githubusercontent.com/codeyu/2048-ai/master/screenshot/2048-ai.jpg)
 
 ## How to run?
 #### Via Go
 ```bash
-go get github.com/xwjdsh/2048-ai
-cd $GOPATH/src/github.com/xwjdsh/2048-ai
+go get github.com/codeyu/2048-ai
+cd $GOPATH/src/github.com/codeyu/2048-ai
 go build
 ./2048-ai
 ```
@@ -44,4 +44,4 @@ Then, you can access http://localhost:8080/ from the browser.
 
 ## Licence
 
-[MIT License](https://github.com/xwjdsh/2048-ai/blob/master/LICENSE)
+[MIT License](https://github.com/codeyu/2048-ai/blob/master/LICENSE)
